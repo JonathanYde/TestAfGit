@@ -1,1 +1,1 @@
-I am trying
+I am trying to make git work with GitHub
