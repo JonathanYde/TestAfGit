@@ -1,1 +1,2 @@
 I am trying to make git work with GitHub. Seems to work so far!
+I made the push default simple.
